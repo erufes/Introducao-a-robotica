@@ -43,6 +43,7 @@ Tutoriais base para a construção e controle do seu primeiro carro robótico ut
 Evolua o projeto integrando algoritmos de inteligência artificial e controle gestual via Python:
 
 * 🎥 [How to build Hand Gesture Recognition using ESP32 and Python | Step by Step Tutorial](https://www.youtube.com/watch?v=M0wUHyFHRoQ) — por *Circuit Digest*
+* 🎥 [Detecção de Mãos com OpenCV e MediaPipe: O Único Tutorial que Você Precisa! ✋🤖](https://www.youtube.com/watch?v=JAJEnRaOU0A) — por *Mundo Python*
 
 ---
 

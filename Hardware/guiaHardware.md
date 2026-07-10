@@ -9,3 +9,6 @@ diagramas de circuitos recomendados para o melhor funcionamento do componente.
 Sucateamento: Geralmente a maior parte dos dispositivos e possivel reutilizar as baterias para outros projetos 
 e/ou o circuito de carregamento. Outros componentes são mais dificeis de serem readaptados para ultilização, mas
 não impossiveis.
+![Uploading IMG_4646.jpeg…]()
+![Uploading IMG_4644.jpeg…]()
+![Uploading IMG_4647.jpeg…]()

@@ -52,3 +52,14 @@ Antes de começar a montar os circuitos definitivos, assista a este guia essenci
 
 * 🎥 [HOW TO SOLDER! (Beginner's Guide)](https://www.youtube.com/watch?v=3jAw41LRBxU&t=1127s) — por *HackMakeMod*
 
+"Influencers" de tecnologia:
+instagram: 
+backtoengineering
+aykhanium
+chrispathway
+tech.explain1
+artbartolomeu
+guiarobotica
+gio.yaml
+
+

@@ -39,6 +39,8 @@ Tutoriais base para a construção e controle do seu primeiro carro robótico ut
 * 🎥 [How to control 2 DC motors with ESP32 and L298N with mobile phone and Blynk app](https://www.youtube.com/watch?v=j2qJH3ydylE) — por *FixitEasy*
 * 🎥 [Eletrônica Simples que Resolve (Mas Poucos Usam) | ESP32 para RC com PS4] (https://www.youtube.com/watch?v=fPu4ntWcImQ) — por *Arduino Para Modelismo*
 
+*para economizar no hardware pode ser ultilizado baterias de notebook velho, so arrancar, com cuidado, e cor (sao unidas por placinhas de metal, so cortar essar placas com tesoura)
+
 ### 👁️ 1.1 Visão Computacional e Reconhecimento de Gestos
 Evolua o projeto integrando algoritmos de inteligência artificial e controle gestual via Python:
 
